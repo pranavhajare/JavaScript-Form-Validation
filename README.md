@@ -1,8 +1,4 @@
 # JavaScript-Form-Validation
-# JavaScript Form Validation
-
-
-
 This JavaScript project provides robust form validation for your web application, enhancing user data integrity and experience. Key features include:
 
 - **Required Fields**: Ensures all mandatory fields are filled before submission.
