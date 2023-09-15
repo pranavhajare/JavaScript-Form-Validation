@@ -36,6 +36,9 @@ Provides visual feedback to users by changing the border color of input fields:
 
 Checks if the password and password confirmation fields match, ensuring users enter the same password twice for confirmation.
 
+## Contributions
+Contributions are welcome! If you have ideas for improvements or new features, please open an issue or create a pull request.
+
 ### 5. Length Validation
 
 Validates the minimum and maximum length of every input field, preventing data entry outside the specified range.
