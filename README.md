@@ -11,8 +11,8 @@ This JavaScript project provides robust form validation for your web application
 - **Password Matching**: Checks if password and confirmation match.
 - **Length Validation**: Validates input field length.
 
-## Demo
-
+## Demo (hosted)
+https://pranavhajare.github.io/JavaScript-Form-Validation/
 
 
 ## Features
